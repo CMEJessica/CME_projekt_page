@@ -1,0 +1,29 @@
+
+/* colors */
+$color-primary: #5C8161;
+$color-secondary: #415D43;
+$color-accent: #E06534;
+$color-accent-light:#FBEFEA;
+$color-bg: #ffffff;
+$color-bg-gray: #F4F4F4;
+$color-bg-high-opacity: hsla(0, 0%, 100%, 0.6);
+$color-bg-low-opacity: hsla(0, 0%, 100%, 0.85);
+$color-txt: #333;
+$color-txt-light: #ffffff;
+
+/* fonts */
+$font-main: 'Roboto', sans-serif;
+$font-logo: 'Comfortaa', cursive;
+
+/* spacing */
+$small-space: 1rem;
+$regular-space: 2rem;
+$large-space: 3rem;
+$xlarge-space: 4rem;
+$xxlarge-space: 6rem;
+
+/* max width and height */
+$desktop-breakpoint: 1100px;
+$tablet-breakpoint: 800px;
+$content-width: 850px;
+$hero-height: 650px
